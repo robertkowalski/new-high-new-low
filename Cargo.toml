@@ -1,0 +1,9 @@
+[package]
+name = "nhnl"
+version = "0.1.0"
+authors = ["Robert Kowalski <rok@kowalski.gd>"]
+
+[dependencies]
+select = "0.3.0"
+hyper = "0.9"
+time = "0.1"
